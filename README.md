@@ -159,6 +159,10 @@ Suraksha/
 
 6. Create a Pull Request on GitHub. Make sure your code follows the project coding conventions.
 
+## License
+
+- [LICENSE](https://github.com/ritvijapachori/Suraksha/blob/master/LICENSE)
+
 ## Contact
 
 For any queries or feedback, reach out to:
